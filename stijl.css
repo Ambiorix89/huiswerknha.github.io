@@ -1,0 +1,17 @@
+/* Eigen stijl die Bootstrap overschrijft */
+.custom-navbar .navbar-brand {
+  color: white; /* Oranje tekstkleur */
+}
+
+.custom-navbar .nav-link {
+  color: white; /* oranje bijvoorbeeld */
+}
+
+/* Optioneel: kleur bij hover */
+.custom-navbar .nav-link:hover {
+  color: blue;
+}
+
+.custom-navbar {
+  background-color: #343a40;
+}
